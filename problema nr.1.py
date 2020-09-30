@@ -1,17 +1,17 @@
 n=int(input("introduceti numarul culorii"))
 print("ati introdus culoarea cu numarul:",n)
-if n=1:
+if n==1:
     print("Rosu")
-if n=2:
+if n==2:
     print("Oranj")
-if n=3:
+if n==3:
     print("Galben")
-if n=4:
+if n==4:
     print("Verde")
-if n=5:
+if n==5:
     print("Albastru")
-if n=6:
+if n==6:
     print("Indigo")
-if n=7:
+if n==7:
     print("Violet")
 
